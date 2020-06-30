@@ -59,7 +59,7 @@ Python, Scikit-learn, Keras, Docker, Kubernetes
 Python, OpenCV, Keras, pandas
 
 ## KB손해보험
-2019.03 - 2020.10
+2019.03 - 2019.10
 
 ### Description
 오픈소스 기반 분석 플랫폼 구축 및 분석모델 개발.
