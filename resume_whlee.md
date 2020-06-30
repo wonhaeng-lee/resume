@@ -90,12 +90,14 @@ Python, OpenCV, Keras, Docker
 * 먼저 일에 착수하는것보다 충분히 논의하고 토론한 후에 업무를 시작하는것이 더 좋은 결과를 만든다고 믿습니다.
 ---
 ## Docker.
+
 * Docker image를 빌드하고 배포할 수 있습니다.
 * Private Registry를 생성하고 관리할 수 있습니다.
 * Docker volume을 사용한 경험이 있습니다.
 * 개인 개발환경을 Docker image로 관리하는 것을 선호합니다.
 ---
 ## ML/DL Frame Work.
+
 * 데이터에 및 네트워크에따라 scikit-learn, keras, tensorflow를 적절히 사용합니다.
 * Tensorboard를 통해 모델학습을 시각화할 수 있으며 그로인해 과적합 또는 과소적합을 판단할 수 있습니다.
 * 네트워크는 도구일뿐 적절한 파라미터선정과 하이퍼파라미터의 튜닝이 중요하다고 믿습니다.
